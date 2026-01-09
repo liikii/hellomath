@@ -1,0 +1,7 @@
+.idea
+*.gif
+a.py
+.pip
+b.py
+b[1-9].py
+a[1-9].py
